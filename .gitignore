@@ -63,3 +63,4 @@ fabric.properties
 /platforms
 /plugins
 /www/downloads
+/node_modules
